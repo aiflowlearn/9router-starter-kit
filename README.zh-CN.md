@@ -132,12 +132,21 @@ Cursor 是 GUI 设置，无法完全脚本化。`configure.sh` 会生成 `output
 
 ## 更多 AIFlowLearn 项目
 
+- [9router-starter-kit](https://github.com/aiflowlearn/9router-starter-kit) — 5 分钟完成 AI 模型路由配置
 - [awesome-claude-code](https://github.com/aiflowlearn/awesome-claude-code) — Claude Code 学习工具包
 - [zero2claude](https://github.com/aiflowlearn/zero2claude) — 从零学习 Claude Code
 - [zero2codex](https://github.com/aiflowlearn/zero2codex) — 从零学习 Codex CLI
 - [zero2cursor](https://github.com/aiflowlearn/zero2cursor) — 从零学习 Cursor IDE
 - [zero2codewhale](https://github.com/aiflowlearn/zero2codewhale) — 从零学习 CodeWhale
 - [ai-coding-skillpacks](https://github.com/aiflowlearn/ai-coding-skillpacks) — 21 条 AI 编程学习路径
+
+## 在线练习
+
+你可以在 [AIFlowLearn](https://aiflowlearn.net) 上练习 AI 编码工作流和模型路由模式。AIFlowLearn 提供浏览器里的互动课程、实战练习环境和技能包。
+
+## 贡献
+
+欢迎贡献！请查看 issues tab，或直接提交 PR。
 
 ## License
 

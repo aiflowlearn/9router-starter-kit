@@ -130,12 +130,21 @@ Use `pm2 logs 9router` or inspect `~/.9router/logs/`.
 
 ## More from AIFlowLearn
 
+- [9router-starter-kit](https://github.com/aiflowlearn/9router-starter-kit) — AI model routing in 5 minutes
 - [awesome-claude-code](https://github.com/aiflowlearn/awesome-claude-code) — Claude Code learning toolkit
 - [zero2claude](https://github.com/aiflowlearn/zero2claude) — Learn Claude Code from zero
 - [zero2codex](https://github.com/aiflowlearn/zero2codex) — Learn Codex CLI from zero
 - [zero2cursor](https://github.com/aiflowlearn/zero2cursor) — Learn Cursor IDE from zero
 - [zero2codewhale](https://github.com/aiflowlearn/zero2codewhale) — Learn CodeWhale from zero
 - [ai-coding-skillpacks](https://github.com/aiflowlearn/ai-coding-skillpacks) — 21 AI coding learning paths
+
+## Online Practice
+
+Practice AI coding workflows and model routing patterns on [AIFlowLearn](https://aiflowlearn.net), a browser-based platform for interactive AI coding courses, labs, and skill packs.
+
+## Contributing
+
+Contributions welcome! Please see the issues tab or submit a PR.
 
 ## License
 
